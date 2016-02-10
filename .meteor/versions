@@ -13,6 +13,8 @@ caching-compiler@1.0.1-modules.8
 caching-html-compiler@1.0.3-modules.8
 callback-hook@1.0.5-modules.8
 check@1.1.1-modules.8
+coffeescript@1.0.12-modules.8
+cosmos:browserify@0.9.3
 ddp@1.2.2
 ddp-client@1.2.2-modules.8
 ddp-common@1.2.2
@@ -32,6 +34,7 @@ http@1.1.2-modules.8
 id-map@1.0.4
 insecure@1.0.4
 jquery@1.11.5-modules.8
+kadira:flow-router@2.10.1
 launch-screen@1.0.5-modules.8
 livedata@1.0.15
 logging@1.0.9-modules.8
