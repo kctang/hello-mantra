@@ -16,3 +16,18 @@ To use the composed component:
 * As with all mantra based applications, `main.js` loads all the modules (only `coreModule` in this demo).
 
 This repository was created as a result of this [issue](https://github.com/kadirahq/mantra/issues/63). Feedback, ideas and corrections appreciated.
+
+##### NPM Scripts
+
+To run code linting and tests:
+
+    npm test
+
+To continuously watch for file changes and run tests (useful during development, especially TDD):
+
+    npm run test-watch
+
+To run code linting:
+
+    npm run lint
+
